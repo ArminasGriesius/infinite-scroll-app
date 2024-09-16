@@ -1,6 +1,8 @@
-<h3 align="center">Vinted Technical Task</h3>
+<h3 align="center">Infinite Scroll App</h3>
 
-<h3 align="center">Technical Task For Junior Web Engineer Position at Vinted Academy</h3>
+<h3 align="center">Infinite scroll application initially made for Junior Web Engineer Position at Vinted Academy</h3>
+
+<h3 align="center">https://infinite-scroll-pqvm7v6c0-arminasgriesius-projects.vercel.app/</h3>
 
 ## Table Of Contents
 
@@ -14,7 +16,7 @@
 
 ## About the project
 
-Welcome to my Vinted Technical Task project! 🚀
+Welcome to my Infinite Scroll project! 🚀
 
 A simple React Web App with infinite scrolling, favourites, Flickr API integration and cool visual indicators and done as a part for Vinted Academy program.
 
@@ -52,7 +54,9 @@ Additional functionality:
 
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+Simply go to : https://infinite-scroll-pqvm7v6c0-arminasgriesius-projects.vercel.app/
+
+Or this is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
@@ -93,4 +97,5 @@ http://localhost:5173/
 ## Authors
 
 - _Arminas Griesius_ - [Arminas Griesius](https://github.com/ArminasGriesius)
+
 # infinite-scroll-app
