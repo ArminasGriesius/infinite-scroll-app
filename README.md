@@ -54,7 +54,7 @@ Additional functionality:
 
 ## Getting Started
 
-Simply go to : https://infinite-scroll-pqvm7v6c0-arminasgriesius-projects.vercel.app/
+Simply go to : https://infinite-scroll-app-one.vercel.app/
 
 Or this is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
