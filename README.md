@@ -2,7 +2,7 @@
 
 <h3 align="center">Infinite scroll application initially made for Junior Web Engineer Position at Vinted Academy</h3>
 
-<h3 align="center">https://infinite-scroll-pqvm7v6c0-arminasgriesius-projects.vercel.app/</h3>
+ <h3 align="center"><a href="https://infinite-scroll-pqvm7v6c0-arminasgriesius-projects.vercel.app/" target="_blank">https://infinite-scroll-pqvm7v6c0-arminasgriesius-projects.vercel.app/</a></h3>
 
 ## Table Of Contents
 
