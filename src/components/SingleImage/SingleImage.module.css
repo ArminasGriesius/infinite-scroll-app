@@ -1,0 +1,59 @@
+.imageBox {
+  position: relative;
+  width: 100%;
+  height: 270px;
+  border-radius: 5px;
+  background-color: gray;
+}
+.image {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  border-radius: 5px;
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.highResImg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: opacity 0.5s ease-in-out;
+  opacity: 0;
+}
+
+.heart {
+  position: absolute;
+  top: 5%;
+  right: 5%;
+  width: 30px;
+  z-index: 1;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.visible {
+  opacity: 1;
+}
+
+@media screen and (max-width: 1279px) {
+  .imageBox {
+    height: 200px;
+  }
+}
+@media screen and (max-width: 1023px) {
+  .imageBox {
+    height: 290px;
+  }
+}
+@media screen and (max-width: 767px) {
+  .imageBox {
+    height: 250px;
+  }
+}
+@media screen and (max-width: 374px) {
+  .imageBox {
+    height: 200px;
+  }
+}
